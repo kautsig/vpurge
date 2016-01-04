@@ -5,7 +5,7 @@ instances. Purge requests are distributed through rabbitmq.
 
 Please be aware that this tool has not been proven in
 production. There might be pitfalls, it was written for testing
-purposed to create something potentially useful with clojure.
+purposes to create something potentially useful with clojure.
 
 ## Installation
 
